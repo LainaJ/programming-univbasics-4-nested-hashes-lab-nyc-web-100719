@@ -15,11 +15,10 @@ def hopper
           :languages => ["C"]
         }
      }
+		#my code here (-Laina)
+		puts programmer_hash[:grace_hopper]
+		#my code here ends (-Laina)
 end
-
-#my code here (-Laina)
-puts programmer_hash[:grace_hopper]
-#my code here ends (-Laina)
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
