@@ -16,7 +16,10 @@ def hopper
         }
      }
 
-
+#my code here (-Laina)
+programmer_hash[:grace_hopper]
+puts hopper 
+#my code here ends (-Laina)
 end
 
 def alan_kay_is_known_for
