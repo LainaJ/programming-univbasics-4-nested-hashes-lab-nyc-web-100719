@@ -15,9 +15,10 @@ def hopper
           :languages => ["C"]
         }
      }
-		#my code here (-Laina)
-		puts programmer_hash[:grace_hopper]
-		#my code here ends (-Laina)
+		 #my code here (-Laina)
+		hopper = programmer_hash[:grace_hopper]
+		puts hopper
+		 #my code here ends (-Laina)
 end
 
 def alan_kay_is_known_for
