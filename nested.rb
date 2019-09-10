@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-		 #my code here (-Laina)
+		 
 	puts programmer_hash[:grace_hopper]
 end
 
