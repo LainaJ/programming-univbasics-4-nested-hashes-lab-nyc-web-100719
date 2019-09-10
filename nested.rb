@@ -16,8 +16,8 @@ def hopper
         }
      }
 		 #my code here (-Laina)
-	programmer_hash[:grace_hopper]
-	puts programmer_hash
+	hopper = programmer_hash[:grace_hopper]
+	puts hopper
 		 #my code here ends (-Laina)
 end
 
